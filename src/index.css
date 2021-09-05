@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --charcoal: hsla(222, 19%, 27%, 1);
   --gray: hsla(260, 8%, 85%, 1);
